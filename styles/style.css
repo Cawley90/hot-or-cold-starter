@@ -319,3 +319,21 @@ ul.guessBox li {
 	margin: 0.2em;
 	color: #fff;
 }
+
+.winner {
+	background-color: #394264;
+	width: 50%;
+	height: 100%;
+	color: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0;
+	z-index: 900;
+	display: none;
+	margin-left:25%;
+}
+
+.new {
+	z-index: 1000;
+}
